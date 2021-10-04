@@ -9,10 +9,6 @@ wp-content/*
 !wp-content/themes/
 !wp-content/mu-plugins/
 
-# Ignore le contenu de "themes" sauf le dossier de NOTRE thème
-wp-content/themes/*
-!wp-content/themes/hiverna/
-
 # Ignore le contenu de "plugins" sauf le dossier de NOTRE plugin personnalisé
 # (la ligne ! sera à répêter pour chaque plugin à commiter...)
 wp-content/plugins/*
@@ -21,4 +17,8 @@ wp-content/plugins/*
 # et du "must-use" nommé ici "important.php"
 wp-content/mu-plugins/*
 !wp-content/mu-plugins/important.php
+
+# Ignore le contenu de "themes" sauf le dossier de NOTRE thème
+wp-content/themes/*
+!wp-content/themes/hiverna/
 
