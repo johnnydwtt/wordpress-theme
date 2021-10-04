@@ -20,4 +20,3 @@ wp-content/plugins/*
 
 # Ignore le contenu de "themes" sauf le dossier de NOTRE thème (si il y en a)
 !wp-content/themes/hiverna/
-wp-content/themes/*
