@@ -1,5 +1,5 @@
 # Ignore tout à la racine, sauf .gitignore et "wp-content"
-/*
+*
 !.git
 !.gitignore
 !wp-content
